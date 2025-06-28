@@ -5,7 +5,7 @@
 
 2. Extract the files to your desired location on your computer.
    
-3. Open the **.sln** file in the extracted folder using **Visual Studio**.
+3. Open the **.sln** file in the extracted folder using the **Visual Studio** IDE (https://visualstudio.microsoft.com/downloads/).
    
 4. Build the project (Ctrl+Shift+B).
    
